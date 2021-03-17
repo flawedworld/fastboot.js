@@ -274,9 +274,9 @@
     "@types/node" "*"
 
 "@zip.js/zip.js@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@zip.js/zip.js/-/zip.js-2.1.0.tgz#cf1acf2c0f3426dea57cdc05d8714e7a705dd4a6"
-  integrity sha512-+1FOBI2gz/DcaNcmlQ+9jzw87+Advbtrcz2weF0DSXDdgvXJ7mHY1dxNEm7X2sjhDsr5aTPOEH4C9PL6r+fPSQ==
+  version "2.2.23"
+  resolved "https://registry.yarnpkg.com/@zip.js/zip.js/-/zip.js-2.2.23.tgz#a3eefb09bac92a455626d2b70ee84e4a77aa6db2"
+  integrity sha512-arbpkFqxlQmyXdbajYvCvbXwszbi8He2ENIKewdU4SIy21AoVlgX/kx7/vTxkNYb0qu3+ztCDTDmzFj7wWGwVA==
 
 acorn-globals@^3.0.0:
   version "3.1.0"
